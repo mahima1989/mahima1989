@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahima1989
-- 👀 I’m interested in Developing web apps and mobile apps.
+- 👀 I’m interested in developing web and mobile apps.
 - 🌱 I’m currently learning Machine learning and Data science.
 - 💞️ I’m looking to collaborate on open source contribution.
 - 📫 How to reach me email : mahimarob13@gmail.com
